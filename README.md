@@ -8,7 +8,7 @@ Me chamo Victor Ramos, sou um programador Front End, atualmente estou aprendendo
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" /> 
 
-<a href="www.linkedin.com/in/victorramosdarocha">
+<a href="https://www.linkedin.com/in/victorramosdarocha?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
 <img align="left" alt="LinkedIn" width="22px" src="https://camo.githubusercontent.com/70a7364e4cab5012925da3ac158a64a992e400152b366dbb71b90fef4b4a1264/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%;">
 </a>
 
